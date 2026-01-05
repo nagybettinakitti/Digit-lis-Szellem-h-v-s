@@ -15,3 +15,4 @@ A csapat felajánlotta, hogy befejezi a kódot, és megőrzi a nevét.
 Erre a hálózat zajai lassan elcsendesedtek, és az üzenetek letisztultak.
 Az utolsó sor egy köszönet volt, pontos időbélyeggel ellátva.
 Ahogy a program leállt, a szobában újra hétköznapi csend lett.
+Másnap a fórum eltűnt, mintha sosem létezett volna.
