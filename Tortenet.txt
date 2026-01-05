@@ -11,3 +11,4 @@ Amikor válaszoltak, a betűk visszhangként jelentek meg több ablakban is.
 A diákok rájöttek, hogy a hívás nem csak adatokat, hanem érzelmeket is összeköt.
 Egy elveszett fejlesztő története rajzolódott ki a naplófájlok közül.
 Kiderült, hogy a szellem a félbehagyott projektjeihez keresett lezárást.
+A csapat felajánlotta, hogy befejezi a kódot, és megőrzi a nevét.
