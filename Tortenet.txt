@@ -1,2 +1,3 @@
 Egy elhagyott fórum mélyén egy csapat diák rábukkant egy digitális szellemhívás leírására.
 A rituálé nem gyertyákat, hanem kódot, időzítést és egy régi chatklienst igényelt.
+Éjfélkor futtatták a szkriptet, miközben a monitorok fénye hidegen világította meg az arcukat.
