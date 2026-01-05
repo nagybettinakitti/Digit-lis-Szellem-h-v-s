@@ -12,3 +12,4 @@ A diákok rájöttek, hogy a hívás nem csak adatokat, hanem érzelmeket is ös
 Egy elveszett fejlesztő története rajzolódott ki a naplófájlok közül.
 Kiderült, hogy a szellem a félbehagyott projektjeihez keresett lezárást.
 A csapat felajánlotta, hogy befejezi a kódot, és megőrzi a nevét.
+Erre a hálózat zajai lassan elcsendesedtek, és az üzenetek letisztultak.
