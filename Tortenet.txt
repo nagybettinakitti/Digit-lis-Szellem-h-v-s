@@ -3,3 +3,4 @@ A rituálé nem gyertyákat, hanem kódot, időzítést és egy régi chatkliens
 Éjfélkor futtatták a szkriptet, miközben a monitorok fénye hidegen világította meg az arcukat.
 Először semmi sem történt, csak a ventilátor zúgása erősödött fel.
 Aztán a chatablakban megjelent egy üzenet, amelyet senki sem gépelt be.
+A szöveg töredezett volt, mintha egy régi emlék próbálna formát ölteni.
